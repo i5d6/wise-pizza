@@ -1,4 +1,4 @@
-ipython
+ipython>=8.12.0
 kaleido
 numpy
 pandas
